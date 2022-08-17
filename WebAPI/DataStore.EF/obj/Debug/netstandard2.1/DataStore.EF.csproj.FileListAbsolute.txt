@@ -1,0 +1,13 @@
+C:\Users\Daniel\Desktop\Course\WebAPI\DataStore.EF\bin\Debug\netstandard2.1\DataStore.EF.deps.json
+C:\Users\Daniel\Desktop\Course\WebAPI\DataStore.EF\bin\Debug\netstandard2.1\DataStore.EF.dll
+C:\Users\Daniel\Desktop\Course\WebAPI\DataStore.EF\bin\Debug\netstandard2.1\DataStore.EF.pdb
+C:\Users\Daniel\Desktop\Course\WebAPI\DataStore.EF\bin\Debug\netstandard2.1\Core.dll
+C:\Users\Daniel\Desktop\Course\WebAPI\DataStore.EF\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\Daniel\Desktop\Course\WebAPI\DataStore.EF\obj\Debug\netstandard2.1\DataStore.EF.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Course\WebAPI\DataStore.EF\obj\Debug\netstandard2.1\DataStore.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Course\WebAPI\DataStore.EF\obj\Debug\netstandard2.1\DataStore.EF.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Course\WebAPI\DataStore.EF\obj\Debug\netstandard2.1\DataStore.EF.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Course\WebAPI\DataStore.EF\obj\Debug\netstandard2.1\DataStore.EF.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Course\WebAPI\DataStore.EF\obj\Debug\netstandard2.1\DataStore.EF.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Course\WebAPI\DataStore.EF\obj\Debug\netstandard2.1\DataStore.EF.dll
+C:\Users\Daniel\Desktop\Course\WebAPI\DataStore.EF\obj\Debug\netstandard2.1\DataStore.EF.pdb

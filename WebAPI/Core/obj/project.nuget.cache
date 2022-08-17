@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N1GBvyVYWjVlLzCPdhO4Ubu7AAF3JFRIadzEF7Px9+jmg4CGm1mo0MBiklWHAN2EU9C5dUlPViZzoO1+DLrHew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\Desktop\\Course\\WebAPI\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
